@@ -1,6 +1,8 @@
 University Enrollment System
 This is a C# Windows Forms application connected to a MySQL database using XAMPP.
 
+Open in Visual Studio for best readability. Code contained within forms, right click and select view code.
+
 Requirements
 XAMPP (MySQL running on port 3306)
 
