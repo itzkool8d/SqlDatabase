@@ -20,8 +20,8 @@ Admin – Can view, search, and insert data into the database. Used for general 
 
 Owner – Full access. Can manage users, roles, and all data within the system.
 
-Demo Login Info
-This is a demo build. To access each level of the system, use the following test accounts:
+
+Demo Info: This is a demonstration of what kind of capabilities user's at different levels may have. When running program.cs, you will be prompted to a login screen, the following usernames and passwords may be used to access different levels of database control.
 
 User:
 
